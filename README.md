@@ -21,3 +21,6 @@ Use poetry to initialize folder
 > $ django-admin startproject garden_project .
 > $ python manage.py startapp flowers
 
+> $ django-environ 
+
+static/
